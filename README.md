@@ -1,4 +1,4 @@
-# PRIMEIROS_PASOS
+# PRIMEIROS_PASSOS
 Wendel Barros Marino
 Sou casado, tenho uma linda filha
 Atualmente trabalho como gerente de TI na Rede de supermercados Arasuper
